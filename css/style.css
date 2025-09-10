@@ -7,7 +7,7 @@ body {
 /* Style for all text */
 p, h1, h2 {
     font-family:'Times New Roman', Times, serif;
-    color: black;
+    color: rgb(60, 60, 60);
 }
 
 /* Heading Style */
@@ -45,3 +45,4 @@ footer {
 footer > p {
     color: white;
 }
+
