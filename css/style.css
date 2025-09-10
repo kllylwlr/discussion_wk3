@@ -1,0 +1,21 @@
+
+/*Background */
+body {
+    background-color: pink;
+}
+
+/* */
+p, h1, h2 {
+    font-family:'Times New Roman', Times, serif;
+    color: blue;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+/* Images */
+img {
+    width: 50%;
+    height: 100%;
+}
